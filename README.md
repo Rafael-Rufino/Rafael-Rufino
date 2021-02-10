@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Rafael-Rufino/Rafael-Rufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Studying programming, web developer, infrastructure specialist
 
 - 🔭 I’m currently studying programming...
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODEJS, SQL, PYTHON, DJANGO, C, REACT...
