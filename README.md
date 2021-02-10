@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Studying programming, web developer, infrastructure specialist
+## Programming student, web developer, infrastructure specialist, passionate about technology.
 
 - 🔭 I’m currently studying programming...
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODEJS, SQL, PYTHON, DJANGO, C, REACT...
