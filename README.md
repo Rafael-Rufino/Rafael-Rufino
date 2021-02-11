@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Rafael Rufino
+### hi 👋, i am Rafael Rufino
 
 ## Programming student, web developer, infrastructure specialist.
 
