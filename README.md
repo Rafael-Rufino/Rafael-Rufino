@@ -36,7 +36,7 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 <hr/>
 <h1 align="center"> Minhas Stacks </h1>
 
-<table align="center" height="300px">
+<table align="center" height="100%">
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
