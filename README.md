@@ -79,15 +79,25 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
       </a>
     </td>
     <td align="center">
-  <a href="https://sass-lang.com/">
-    <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
-    <sub>
-      <b>
-        <pre>Sass</pre>
-      </b>
-    </sub>
-  </a>
-</td>
+      <a href="https://chakra-ui.com/">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="Chakra-ui icon"/><br/>
+        <sub>
+          <b>
+            <pre>Chakra-UI</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+ <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
  <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
@@ -203,6 +213,18 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
       </sub>
     </a>
   </td>
+  
+  <td align="center">
+    <a href="https://storybook.js.org/">
+      <img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" width="65px" alt="Storybook icon"/><br/>
+      <sub>
+        <b>
+          <pre>Storybook</pre>
+        </b>
+      </sub>
+    </a>
+  </td>
+
 
   <td align="center">
   <a href="https://docker.io/">
