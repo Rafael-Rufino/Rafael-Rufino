@@ -195,9 +195,8 @@
 </table>
 <br/>
 <hr/>
-
 <br/>
-<hr/>
+
 
 <h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
 
