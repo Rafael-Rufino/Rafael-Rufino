@@ -246,7 +246,7 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 <h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
 
 <p align="center">
-  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jair Willian Class github stats"/>
+  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Rufino Class github stats"/>
   <img width="45%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Rufino&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
