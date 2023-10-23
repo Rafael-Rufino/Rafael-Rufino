@@ -89,11 +89,11 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
       </a>
     </td>
  <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+      <a href="https://sass-lang.com/">
+        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
         <sub>
           <b>
-            <pre>HTML5</pre>
+            <pre>Sass</pre>
           </b>
         </sub>
       </a>
