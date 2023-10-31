@@ -247,7 +247,10 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 
 <div align="center">
  <a href="https://git.io/streak-stats">
-  <img width="50%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Rufino Class github stats"/>
+ <a href="https://git.io/streak-stats">
+  <img width="70%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical" alt="Rafael Rufino"/>
+  <img width="70%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rafael Rufino Class github stats"/>
+ </a>
  </a>
  </div>
 
