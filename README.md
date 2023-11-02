@@ -251,8 +251,11 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 - <a href="#" target="_blank">[Ignite (Trilha Nodejs)](https://rocketseat.com.br/ignite) 🚀</a>
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 
+
+    
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 <div align="center">
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical&show_icons=true&card_width=500)
 </div>
 <div align="center">
