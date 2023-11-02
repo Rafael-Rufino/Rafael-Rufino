@@ -252,9 +252,9 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 - <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 
 ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical&show_icons=true&card_width=400)
-
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical&show_icons=true&card_width=500)
+</div>
 <div align="center">
  <a href="https://git.io/streak-stats">
      <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafael-Rufino&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
