@@ -1,6 +1,7 @@
 ### hi 👋, i am Rafael Rufino
 
-## Developer font-end Web and Mobile 
+- 📌 NATAL RN.
+- 👩🏻‍💻 Developer Front-End - Pleno.
 
 <h1 align="center"> Sobre Mim </h1>
 
@@ -17,9 +18,13 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 
 ⚜ Me considero ágil, criativo, analítico, consistente em aprender e me adaptar as mudanças, pronto para superar qualquer desafio! Tenho facilidade para fazer novas amizades e lidar com pessoas.
 
-</br></br></br>
+## Objetivo
 
+👩🏻‍💻 Tenho como objetivo me tornar um Desenvolvedor Front-end Sênior/Tech Lead 💻. Você pode acompanhar a minha jornada por aqui 😄.
 
+### "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho." ✍🏻
+
+<br>
 
 <h1 align="center"> Social </h1>
 <p align="center">
@@ -28,12 +33,12 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
     <a href="https://www.linkedin.com/in/rafael-r-dos-santos/" target="_blank"><img <img height="40px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </p>
-<hr/>
+<br>
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=rafael-rufino&repo=rafael-rufino&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Rafael Rufino" height="40px" />
 </div>
+<br>
 
-<hr/>
 <h1 align="center"> Minhas Stacks </h1>
 
 <table align="center" height="100%">
@@ -213,7 +218,7 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
       </sub>
     </a>
   </td>
-  
+
   <td align="center">
     <a href="https://storybook.js.org/">
       <img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" width="65px" alt="Storybook icon"/><br/>
@@ -224,7 +229,6 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
       </sub>
     </a>
   </td>
-
 
   <td align="center">
   <a href="https://docker.io/">
@@ -239,20 +243,17 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 
 </table>
 <br/>
-<hr/>
-<br/>
 
+## Cursos 📚
 
-<h1 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
+- <a href="#" target="_blank">[Ignite (Trilha ReactJS)](https://rocketseat.com.br/ignite) 🚀</a>
+- <a href="#" target="_blank">[Ignite (Trilha React Native)](https://rocketseat.com.br/ignite) 🚀</a>
+- <a href="#" target="_blank">[Ignite (Trilha Nodejs)](https://rocketseat.com.br/ignite) 🚀</a>
+- <a href="#" target="_blank">[JStack](https://jstack.com.br/) 💻</a>
 
-<div align="center">
- <a href="https://git.io/streak-stats">
- <a href="https://git.io/streak-stats">
-  <img width="70%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical" alt="Rafael Rufino"/>
-  <!--   <img width="70%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rafael Rufino Class github stats"/> -->
- </a>
- </a>
- </div>
+## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Rufino&show_icons=true&theme=radical&show_icons=true&card_width=400)
 
 <div align="center">
  <a href="https://git.io/streak-stats">
@@ -264,8 +265,3 @@ Tenho sólidos conhecimentos: HTML, CSS, Javascript, Typescript, React, Nextjs, 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rafael-Rufino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-</br>
-<hr/>
-
-
-
